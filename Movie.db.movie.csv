@@ -1,0 +1,131 @@
+movie_id,title,rating,release_date,studio,runtime,genre
+1,"About a Boy",93,2003,"Universal Studios",101,Comedy
+2,Aladdin,95,1992,Disney,91,"Kids and Family"
+3,Aladdin,57,2019,Disney,128,"Kids and Family"
+4,Antman,82,2015,Marvel,118,"Action and Adventure"
+5,"Antman 2",87,2018,Marvel,119,"Action and Adventure"
+6,Avengers,91,2012,Marvel,144,"Action and Adventure"
+7,"Avengers Age of Ultron",75,2015,Marvel,142,"Action and Adventure"
+8,"Avengers Infinity War",85,2018,Marvel,150,"Action and Adventure"
+9,"Avengers Endgame",94,2019,Marvel,182,"Action and Adventure"
+10,Babe,97,1995,"Universal Studios",92,"Kids and Family"
+11,"Baby Mama",63,2008,"Universal Studios ",99,Comedy
+12,"Beauty and the Beast",94,1991,Disney,92,"Kids and Family"
+13,"Beauty and the Beast",71,2017,Disney,131,"Kids and Family"
+14,"Black Panther",96,2018,Marvel,135,"Action and Adventure"
+15,"The Blind Side",66,2009,"Warner Bros Pictures",129,Drama
+16,"The Bourne Identity",83,2002,"Universal Studios",118,"Action and Adventure"
+17,"The Bourne Suprmacy",82,2004,"Universal Studios",108,"Action and Adventure"
+18,"The Bourne Ultimatum",92,2007,"Universal Studios",115,"Action and Adventure"
+19,"The Bourne Legacy",55,2012,"Universal Studios",135,"Action and Adventure"
+20,"Calamity Jane",73,1953,"Warner Bros Pictures",101,Musical
+21,"Captain America",80,2011,Marvel,125,"Action and Adventnure"
+22,"Captain Marvel",79,2019,Marvel,124,"Action and Adventure"
+23,"Cast Away",89,2000,"20th Century Fox",144,Drama
+24,"Chasing Mavericks",32,2012,"20th Century Fox",117,Sports
+25,Cinderella,97,1950,Disney,76,"Kids and Fmaily"
+26,Cinderella,83,2015,Disney,106,"Kids and Family"
+27,Clueless,82,1995,Paramount,97,Comedy
+28,Coco,97,2017,Disney,109,"Kids and Family"
+29,"Crazy Rich Asians",91,2018,"Warner Bros Pictures",121,Romance
+30,"Dan in Real Life",64,2008,"Touchstone Pictures",99,Romance
+31,"The Devil Wears Prada",75,2006,"20th Century Fox",110,Comedy
+32,"Doctor Strange",89,2016,Marvel,116,"Action and Adventure"
+33,"Dumb and Dumber",68,1994,"New Line Cinema",107,Comedy
+34,"Ella Enchanted",50,2004,Miramax,101,Romance
+35,Emma,85,1996,Miramax,121,Romance
+36,Enchanted,93,2008,Disney,108,"Kids and Family"
+37,"Ever After",91,1998,"20th Century Fox",121,Romance
+38,"Fever Pitch",65,2005,"20th Century Fox",103,Comedy
+39,"A Few Good Men",83,1992,"Columbia Pictures",138,Drama
+40,"Field of Dreams",87,1989,"Universal Studios",106,Drama
+41,Gattaca,82,1997,"Columbia Pictures",107,"Sci-Fi and Fantasy"
+42,"Get Smart",51,2008,"Warner Bros Pictures",110,Comedy
+43,Gigi,81,1958,"Metro Goldwyn Mayer",115,Musicals
+44,Gladiator,77,2000,Dreamworks,155,Drama
+45,"The Greatest Showman",57,2017,"20th Century Fox",106,Drama
+46,"Green Book",78,2018,"Universal Studios",130,Drama
+47,"Groundhog Day",96,1993,"Columbia Pictures",101,Comedy
+48,"Guardians of the Galaxy",92,2014,Marvel,121,"Action and Adventure"
+49,"Guardians of the Galaxy 2",85,2017,Marvel,136,"Action and Adventure"
+50,"Harry Potter and the Sorcerers Stone",81,2001,"Universal Studios",159,"Kids and Family"
+51,"Harry Potter and the Chamber of Secrets",82,2002,"Universal Studios",175,"Kids and Family"
+52,"Harry Potter and the Prisoner of Azkaban",82,2004,"Universal Studios",144,"Kids and Family"
+53,"Harry Potter and the Goblet of Fire",88,2005,"Universal Studios",157,"Kids and Family"
+54,"Harry Potter and the Order of the Phoenix",77,2007,"Universal Studios",138,"Kids and Family"
+55,"Harry Potter and the Half-Blood Prince",84,2009,"Universal Studios",154,"Kids and Family"
+56,"Harry Potter and the Deathly Hallows Part 1",77,2010,"Universal Studios",146,"Kids and Family"
+57,"Harry Potter and the Deathly Hallows Part 2",96,2011,"Universal Studios",131,"Kids and Family"
+58,Hercules,84,1997,Disney,93,"Kids and Family"
+59,"Hidden Figures",93,2016,"20th Century Fox",128,Drama
+60,Holes,78,2003,Disney,117,"Kids and Family"
+61,"The Incredibles",97,2004,Disney,116,"Kids and Family"
+62,"The Incredibles 2",93,2018,Disney,125,"Kids and Family"
+63,"The Intern",59,2016,"Warner Bros Pictures",122,Comedy
+64,"Iron Man",94,2008,Marvel,127,"Action and Adventure"
+65,"Jumanji: Welcome to the Jungle",76,2017,"Coulmbia Pictures",119,"Action and Adventure"
+66,"Jumanji: The Next Level",71,2019,"Columbia Pictures",123,"Action and Adventure"
+67,"Just Like Heaven",55,2005,Dreamworks,95,Comedy
+68,"Kung Fu Panda",87,2008,Dreamworks,93,"Kids and Family"
+69,"Kung Fu Panda 2",81,2011,Dreamworks,91,"Kids and Family"
+70,"Kung Fu Panda 3",87,2016,Dreamworks,96,"Kids and Family"
+71,"La La Land",91,2016,"Summit Entertainment",128,Romance
+72,"Legally Blonde",70,2001,"Metro Goldwyn Mayer",96,Comedy
+73,"Lion King",93,1994,Disney,89,"Kids and Family"
+74,"Lion King",52,2019,Disney,118,"Kids and Family"
+75,"The Martian",91,2015,"20th Century Fox",142,"Sci-Fi and Fantasy"
+76,"Mary Poppins",98,1964,Disney,140,"Kids and Family"
+77,"Mary Poppins Returns",79,1964,Disney,132,"Kids and Family"
+78,"The Matrix",88,1999,"Warner Bros Pictures",136,"Sci-Fi and Fantasy"
+79,"McFarland USA",80,2015,Disney,129,Drama
+80,"Mean Girls",84,2004,Paramount,157,Comedy
+81,"Meet the Robinsons",67,2007,Disney,96,"Kids and Family"
+82,Megamind,73,2010,Dreamworks,96,"Kids and Family"
+83,"Miss Congeniality",41,2001,"Warner Bros Pictures",110,Comedy
+84,Moana,95,2016,Disney,108,"Kids and Family"
+85,"Monsters Inc",96,2001,Disney,92,"Kids and Family"
+86,"Monsters University",80,2013,Disney,104,"Kids and Family"
+87,"Never Been Kissed",55,1999,"20th Century Fox",107,Comedy
+88,Newsies,39,1992,Disney,221,Musical
+89,"Now You See Me",50,2013,"Summit Entertainment",115,"Action and Adventure"
+90,"Now You See Me 2",33,2016,"Summit Entertainment",129,"Action and Adventure"
+91,"Oceans Eleven",83,2002,"Warner Bros Pictures",117,"Action and Adventure"
+92,"The Parent Trap",90,1961,Disney,124,"Kids and Family"
+93,"The Parent Trap",86,1998,Disney,128,"Kids and Family"
+94,"The Phantom of the Opera",33,2004,"Warner Bros Pictures",241,Musical
+95,"The Princess Bride",97,1987,"Metro Goldwyn Mayer",99,"Sci-Fi and Fantasy"
+96,"The Princess Diaries",48,2001,Disney,115,"Kids and Family"
+97,"The Princess Diaries 2",27,2004,Disney,113,"Kids and Family"
+98,"The Proposal",44,2009,"Touchstone Pictures",109,Comedy
+99,"Remember the Titans",73,2000,Disney,113,Drama
+100,"Rogue One: A Star Wars Story",84,2016,Disney,135,"Action and Adventure"
+101,"The Sandlot",63,1993,"20th Century Fox",101,Comedy
+102,"School of Rock",91,2004,Paramount,109,Comedy
+103,"Sense and Sensibility",97,1995,"Columbia Pictures",136,Comedy
+104,"Shanghai Noon",79,2000,"Touchstone Pictures",110,"Action and Adventure"
+105,Shrek,88,2001,Dreamworks,91,"Kids and Family"
+106,"Shrek 2",89,2004,Dreamworks,93,"Kids and Family"
+107,"Solo: A Star Wars Story",69,2018,Disney,135,"Action and Adventure"
+108,"The Sound of Music",83,1965,"20th Century Fox",175,Musical
+109,"Star Wars: The Phantom Menace",52,1999,Disney,136,"Action and Adventure"
+110,"Star Wars: Attack of the Clones",65,2002,Disney,143,"Action and Adventure"
+111,"Star Wars: Revenge of the Sith",80,2005,Disney,140,"Action and Adventure"
+112,"Star Wars: A New Hope",92,1977,Disney,125,"Action and Adventure"
+113,"Star Wars: The Empire Strikes Back",94,1980,Disney,128,"Action and Adventure"
+114,"Star Wars: Return of the Jedi",82,1983,Disney,135,"Action and Adventure"
+115,"Star Wars: The Force Awakens",93,2015,Disney,138,"Action and Adventure"
+116,"Star Wars: The Rise of Skywalker",51,2015,Disney,142,"Action and Adventure"
+117,"Star Wars: The Last Jedi",90,2017,Disney,152,"Action and Adventure"
+118,Tangled,89,2010,Disney,102,"Kids and Family"
+119,"That Thing You Do",93,2001,"20th Century Fox",108,Drama
+120,Thor,77,2011,Marvel,116,"Action and Adventure"
+121,"Tommy Boy",42,1999,Paramount,157,Comedy
+122,"Top Gun",54,1986,Paramount,110,"Action and Adventure"
+123,"The Truman Show",95,1999,Paramount,103,Drama
+124,"V for Vendetta",73,2006,"Warner Bros Pictures",133,"Action and Adventure"
+125,Warrior,83,2011,Lionsgate,140,"Action and Adventure"
+126,"The Wedding Singer",69,1998,"New Line Cinema",97,Comedy
+127,"What About Bob",84,1991,"Touchstone Pictures",99,Comedy
+128,"While You Were Sleeping",80,1995,"Hollywood Pictures",103,Romance
+129,Yesterday,63,2019,"Universal Studios",116,Romance
+130,Zombieland,89,2009,"Columbia Pictures",88,"Action and Adventure"
