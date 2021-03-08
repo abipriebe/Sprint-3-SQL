@@ -4,7 +4,7 @@ This is a relational database containing three tables, one containing over a hun
 
 This database can be used for data analysis to see which factors effect the ratings of movies: the length of the movie, the year it came out, whether or not it is a sequel or part of a series, etc. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/616qUDatjRw)
 
 # Relational Database
 
